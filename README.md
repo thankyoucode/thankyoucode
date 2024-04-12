@@ -61,18 +61,6 @@ in depth.
 
 <!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
-  <style>
-    .center-table {
-      width: 100%;
-      margin: auto;
-    }
-
-    .no-border {
-      border-style: none;
-    }
-
-  </style>
 
 <table class="center-table">
   <tr>
